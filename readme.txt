@@ -1,3 +1,5 @@
+ReadMe file for the SVARGS (Sparse Vector Auto-Regressive Greedy Search) implementation in Matlab
+_________________________________________________________________________________________________
 1. All folders should be added to the Matlab path.
 
 2. The file test.m can be run to give a sample result and model assessment.
@@ -8,3 +10,9 @@
 	This can be done using the following Matlab commands:
 		mex turningpts.cpp
 		mex inv_std_normal.cpp
+
+4. Updated versions of this SVARGS implementation can be obtained from the repository:
+https://github.com/emeskaykay/SVARGS.git
+
+For questions about the code or the algorithm contact the authors at
+modysk@gmail.com
